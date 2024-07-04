@@ -1,4 +1,4 @@
-![image](https://github.com/Sh1rush1i/Webiste-Porto-V2/assets/100140876/3abcf585-a95c-4f4b-884f-560824ad048b)# My second website portofolio
+# My second website portofolio
 
 Simple portofolio web design about my graphic design
 
